@@ -45,6 +45,7 @@ Fungsi ini menyediakan menu interaktif yang memungkinkan pengguna untuk memilih 
 Dengan menggunakan pernyataan if-elif-else, program dapat mengarahkan pengguna ke fungsi yang sesuai berdasarkan pilihan mereka. Ini memastikan bahwa pengguna dapat berinteraksi dengan program dengan cara yang intuitif.
 
 ![image](https://github.com/user-attachments/assets/a31f541b-cd9f-46a8-8e95-00235f6da6ea)
+
 ![image](https://github.com/user-attachments/assets/75e25d29-d20c-46d3-b456-e9527a6911f2)
 
 # 5. Penggunaan Exception Handling
